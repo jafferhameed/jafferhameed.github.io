@@ -1464,6 +1464,18 @@
       if (copy.email) mail.setAttribute("href", `mailto:${copy.email}`);
       else mail.remove();
     }
+     const phone = ftSection.querySelector(".ft-phone");
+
+setSlot("ft-phone-label", copy.phoneLabel);
+setSlot("ft-phone-number", copy.phone);
+
+if (phone) {
+  if (copy.phone) {
+    phone.setAttribute("href", `tel:${copy.phone.replace(/[^\d+]/g, "")}`);
+  } else {
+    phone.remove();
+  }
+}
 
     /* link columns (+ an "Elsewhere" column only if social links exist) */
     if (cols) {
