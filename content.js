@@ -145,7 +145,7 @@ const heroContent = {
       },
     ],
     social: [
-      { label: "LinkedIn", href: "https://linkedin.com/in/jaffer" },
+      { label: "LinkedIn", href: "https://linkedin.com/in/jaffer-hameed-a61490340" },
       { label: "GitHub", href: "https://github.com/jafferhameed" },
     ],
     legal: "© 2026 Jaffer Hameed",
