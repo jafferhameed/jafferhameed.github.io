@@ -115,7 +115,7 @@ const heroContent = {
     eyebrow: "( 07 · Contact )",
     headline: ["Let’s build", "something useful."],
     line: "Open to AI/ML, Machine Learning, Data Science and Software Development internships.",
-    email: "jafferhameedx@gmail.com",
+    email: "ijafferhameed@gmail.com",
     emailLabel: "Say hello",
     phone: "+91 7019348542",
     phoneLabel: "Call me",
