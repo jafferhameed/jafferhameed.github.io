@@ -117,6 +117,8 @@ const heroContent = {
     line: "Open to AI/ML, Machine Learning, Data Science and Software Development internships.",
     email: "jafferhameedx@gmail.com",
     emailLabel: "Say hello",
+    phone: "+91 7019348542",
+    phoneLabel: "Call me",
     columns: [
       {
         title: "Sections",
